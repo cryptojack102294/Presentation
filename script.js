@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    var page = 3;
+    var page = 1;
     $('#tulip').click(function () {
         $(this).addClass('started');
         $('h1').addClass('started');
